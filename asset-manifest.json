@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pokemon-typedex/static/css/main.4e9be299.chunk.css",
-    "main.js": "/pokemon-typedex/static/js/main.5559a45f.chunk.js",
-    "main.js.map": "/pokemon-typedex/static/js/main.5559a45f.chunk.js.map",
-    "runtime-main.js": "/pokemon-typedex/static/js/runtime-main.fdac7f26.js",
-    "runtime-main.js.map": "/pokemon-typedex/static/js/runtime-main.fdac7f26.js.map",
-    "static/js/2.190590c2.chunk.js": "/pokemon-typedex/static/js/2.190590c2.chunk.js",
-    "static/js/2.190590c2.chunk.js.map": "/pokemon-typedex/static/js/2.190590c2.chunk.js.map",
-    "index.html": "/pokemon-typedex/index.html",
-    "precache-manifest.a895f7874fe33a471455438fd71c2464.js": "/pokemon-typedex/precache-manifest.a895f7874fe33a471455438fd71c2464.js",
-    "service-worker.js": "/pokemon-typedex/service-worker.js",
-    "static/css/main.4e9be299.chunk.css.map": "/pokemon-typedex/static/css/main.4e9be299.chunk.css.map",
-    "static/js/2.190590c2.chunk.js.LICENSE": "/pokemon-typedex/static/js/2.190590c2.chunk.js.LICENSE"
+    "main.css": "/temp-typedex/static/css/main.4e9be299.chunk.css",
+    "main.js": "/temp-typedex/static/js/main.f49adbb4.chunk.js",
+    "main.js.map": "/temp-typedex/static/js/main.f49adbb4.chunk.js.map",
+    "runtime-main.js": "/temp-typedex/static/js/runtime-main.b2eaa752.js",
+    "runtime-main.js.map": "/temp-typedex/static/js/runtime-main.b2eaa752.js.map",
+    "static/js/2.190590c2.chunk.js": "/temp-typedex/static/js/2.190590c2.chunk.js",
+    "static/js/2.190590c2.chunk.js.map": "/temp-typedex/static/js/2.190590c2.chunk.js.map",
+    "index.html": "/temp-typedex/index.html",
+    "precache-manifest.063651881fa714793b8a2d4e08f34550.js": "/temp-typedex/precache-manifest.063651881fa714793b8a2d4e08f34550.js",
+    "service-worker.js": "/temp-typedex/service-worker.js",
+    "static/css/main.4e9be299.chunk.css.map": "/temp-typedex/static/css/main.4e9be299.chunk.css.map",
+    "static/js/2.190590c2.chunk.js.LICENSE": "/temp-typedex/static/js/2.190590c2.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdac7f26.js",
+    "static/js/runtime-main.b2eaa752.js",
     "static/js/2.190590c2.chunk.js",
     "static/css/main.4e9be299.chunk.css",
-    "static/js/main.5559a45f.chunk.js"
+    "static/js/main.f49adbb4.chunk.js"
   ]
 }
